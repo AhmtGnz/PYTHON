@@ -57,7 +57,7 @@ try:
 
     mail.starttls()
 
-    mail.login("ahmetgenez55@gmail.com","a4m3t4e6e9")
+    mail.login("ahmetgenez55@gmail.com","***********")
 
     for kime in mailler:
         mesaj["To"] = kime
